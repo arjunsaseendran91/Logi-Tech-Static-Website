@@ -1,0 +1,567 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background:#fff;
+}
+body{
+    margin: 0;
+}
+.logo-img{
+   padding-left: 127.5px;
+   padding-top: 16px;
+}
+.our-brands{
+    width: 140px;
+    height: 32px;
+    position: absolute;
+    top: 9px;
+}
+.ob{
+    padding-left: 200px;
+}
+.header-left{
+    width: 50%;
+   height: 15px;
+}
+.header-right{
+    width: 50%;
+    padding-left: 745px;
+}
+.india{
+    color: #697172;
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    text-decoration: none;
+    padding-right: 145px;
+    font-size: 14px;
+}
+.globel{
+    width: 17px;
+    height: 17px;
+    float: right;
+    padding-right: 6px;
+}
+.main-image{
+    width: 100%;
+    position:relative;
+}
+.logi-main-img{
+width: 130px;
+height:50px;
+position: absolute;
+bottom: 700px;
+left: 128px;
+transition: transform .2s;
+}
+.logi-main-img:hover{
+    transform: (1.1);
+}
+
+.shop-bt{
+    position: absolute;
+    outline: none;
+    border: none;
+    background:none;
+    width: 80px;
+    height: 40px;
+    bottom: 710px;
+left: 519px;
+cursor: pointer;
+appearance: none;
+font-size:15px;
+font-weight:500;
+}
+.shop-bt:hover{
+    color: black;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.dis-bt{
+    position: absolute;
+    outline: none;
+    border: none;
+    background:none;
+    width: 110px;
+    height: 40px;
+    bottom: 710px;
+left: 610px;
+cursor: pointer;
+appearance: none;
+font-size:15px;
+font-weight:500;
+}
+.dis-bt:hover{
+    color: black;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.bus-bt{
+    position: absolute;
+    outline: none;
+    border: none;
+    background:none;
+    width: 110px;
+    height: 40px;
+    bottom: 710px;
+left: 720px;
+cursor: pointer;
+appearance: none;
+font-size:15px;
+font-weight:500;
+}
+.bus-bt:hover{
+    color: black;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.sup-bt{
+    position: absolute;
+    outline: none;
+    border: none;
+    background:none;
+    width: 110px;
+    height: 40px;
+    bottom: 710px;
+left: 830px;
+cursor: pointer;
+appearance: none;
+font-size:15px;
+font-weight:500;
+}
+.sup-bt:hover{
+    color: black;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.lense{
+    position: absolute;
+    bottom: 715px;
+    left: 1260px;
+    width: 30px;
+    height: 26px;
+}
+.man{
+    position: absolute;
+    bottom: 719px;
+    left: 1320px;
+    width: 20px;
+    height: 20px;
+}
+.tagline{
+    position: absolute;
+    bottom: 450px;
+    left: 519px;
+    font-size: 80px;
+    color: #2f3232;
+    letter-spacing: 1px;
+}
+.tagline-2{
+    position: absolute;
+    bottom: 450px;
+    left: 600px;
+    font-size: 20px;
+    color: #1f2626;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.tagline-3{
+    position: absolute;
+    bottom: 410px;
+    left: 500px;
+    font-size: 15px;
+    color: #1f2626;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 1px;
+   
+}
+.disc-bt{
+    position: absolute;
+    bottom: 350px;
+    left: 660px;
+    border: #1f2626;
+    background: rgb(35, 34, 34);
+    color: #fff;
+    width: 145px;
+    height: 55px;
+    font-size: 13px;
+   cursor: pointer;
+   font-weight: 500;
+}
+.disc-bt:hover{
+    color: black;
+    background: none;
+    border: 2px solid black;
+}
+    
+.caption{
+padding-bottom: 100px;
+}
+.box-content{
+float: left;
+}
+.box-1{
+    float: left;
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.box-text{
+    padding-top: 20px;
+}
+.box-img{
+    width: 390px;
+    height: 390px;
+}
+.box-ftag-1{
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+.para{
+font-family: Arial, Helvetica, sans-serif;
+}
+.box-ftag-2{
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}.box-2{
+    float: left;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+.box-3{
+    float: left;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+.keyboard{ 
+    transition: transform .2s;
+    width: 800px;
+    height: 450px;
+    padding-left: 120px;
+    padding-top: 80px;
+   float: left;
+}
+.keyboard:hover{
+transform: scale(1.1); 
+}
+.keyboard-text{
+    position: absolute;
+    top: 1770px;
+    left: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(38, 33, 33);
+}
+.cam{
+   transition: transform .2s;
+    width: 400px;
+    height: 695px;
+    padding-right: 115px;
+    padding-top: 80px;
+    float: right;
+}
+.cam:hover{
+transform: scale(1.1); 
+}
+.cam-text{
+    position: absolute;
+    top:2015px;
+   left: 1061px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+    color: rgb(38, 33, 33);
+}
+.laptop{
+    width: 390px;
+    height: 230px;
+    padding-left: 120px;
+    padding-top: 15px;
+    transition: transform .2s;
+}
+.laptop:hover{
+transform: scale(1.1); 
+}
+.laptop-text{
+position: absolute;
+top: 2014px;
+left:234px;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+color: rgb(38, 33, 33);
+}
+.headset{
+    width: 390px;
+    height: 230px;
+    float: right;
+    padding-right: 22px;
+    padding-top: 15px;
+    transition: transform .2s;
+}
+.headset:hover{
+transform: scale(1.1); 
+}
+.headset-text{
+    position: absolute;
+    top:2014px;
+   left:641px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-decoration: none;
+    color: rgb(38, 33, 33);
+}
+.forground{
+    width: 100%;
+}
+.for-img{
+    width: 100%;
+    padding-top: 80px;
+    position: absolute;
+}
+.mouse{
+    position: absolute;
+    left: 670px;
+    top: 2245px;
+    width: 115px;
+    height: 85px;
+}
+.next-pl{
+    position: absolute;
+    left: 411px;
+    top: 2302px;
+    font-weight: bolder;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+.rplatic{
+    position: absolute;
+    left: 579px;
+    top: 2400px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    word-spacing: 3px;
+}
+.pc-bt{
+    position: absolute;
+    left: 579px;
+    top: 2442px;
+    border: none;
+    background: #fff;
+    width: 300px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+}
+.pc-bt:hover{
+    background: none;
+    color: #fff;
+    border: 2px solid#fff;
+}
+.footer{
+    width: 100%;
+    height: 615px;
+   background: #262a2c;
+   position: absolute;
+  top: 2721px;
+  }
+  .f-sec-1{
+    float: left;
+    padding-left: 120px;
+    padding-top: 80px;
+  }
+  .f-sec-2{
+    float: left;
+    padding-left: 220px;
+    padding-top: 80px;
+   }
+   .f-sec-3{
+    float: left;
+    padding-left: 220px;
+    padding-top: 80px;
+   }
+  .f-h{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    font-weight: lighter;
+  }
+  .f-t{
+    color:rgb(192, 189, 189);
+    font-family: Apple Symbols;
+    text-decoration: none;
+    font-weight: lighter;
+   }
+   .bar{
+padding-top: 380px;
+}
+   .line{
+    position: absolute;
+    left: 100px;
+    width: 1200px;
+    left: 120px;
+   }
+   .fb{
+    width: 25px;
+        height: 25px;
+        padding-left: 125px;
+        padding-top: 26px;
+    }
+     .tw{
+        width: 27px;
+        height: 22px;
+        padding-left: 22px;
+    }
+     .insta{
+        width: 25px;
+        height: 25px;
+        padding-left: 25px;
+     }
+     .u-right{
+        float: right;
+        padding-right: 110px;
+    }
+     .email{
+       left: 927px;
+        height: 35px;
+        width: 350px;
+        font-size: 16px;
+       position:absolute;
+       top: 420px;
+    }
+    .email::placeholder{
+        padding-left: 12px;
+        }
+     .e-but{
+        height: 41px;
+        width: 40px;
+        left: 1283px;
+       background-color: rgb(213, 247, 21);
+       appearance: none;
+       border: none;
+       font-weight: bolder;
+       position: absolute;
+       top: 420px;
+       font-family: Arial, Helvetica, sans-serif;
+       cursor: pointer;
+    }
+    .e-but:hover{
+        background-color: #c5d06d;
+    }
+    .black-arrow{
+        height: 10px;
+    }
+    .tick{
+       position: absolute;
+       left: 925px;
+       top: 469px;
+    }
+    .e-text{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+        position: absolute;
+        left: 952px;
+        top: 470px;
+    }
+    .privacy{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+       top: 486px;
+       right: 397px;
+      position: absolute;
+    }
+    .u-text{
+        float: left;
+        padding-left: 125px;
+        padding-top:80px;
+    }
+    .l-r{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        float: left;
+    }
+    .t-u{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+       float: left;
+       padding-left: 39px;
+       padding-top: 16px;
+    }
+    .or{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+       float: left;
+       padding-left: 15px;
+       top: -11px;
+       position: relative;
+       font-weight: lighter;
+    }
+    .w-p{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+        float: left;
+        padding-left: 15px;
+        padding-top: 16px;
+    }
+    .p-p{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+       float: left;
+       padding-left: 15px;
+       padding-top: 16px;
+    }
+    .c-s{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+        float: left;
+        padding-left: 15px;
+        padding-top: 16px;
+    }
+    .s-m{
+        color:rgb(192, 189, 189);
+        font-family: Apple Symbols;
+        text-decoration: none;
+        float: left;
+        padding-left: 15px;
+        padding-top: 16px;
+    }
+    .u-img{
+    float: right;
+   padding-right: 130px;
+  padding-top: 95px;
+}
+    .india-2{
+        color: #697172;
+        font-family: Arial, Helvetica, sans-serif;
+       text-decoration: none;
+        font-size: 14px;
+        float: right;
+    }
+    .globel-2{
+        width: 17px;
+        height: 17px;
+        padding-right: 6px;
+    }
+    .chat-pic{
+        width: 70px;
+        top: 700px;
+        left: 1370px;
+        position: fixed;
+        cursor: pointer;
+    }
+    
+    
+   
